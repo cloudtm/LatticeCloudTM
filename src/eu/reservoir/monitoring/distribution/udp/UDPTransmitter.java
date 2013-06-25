@@ -94,7 +94,7 @@ public class UDPTransmitter {
 	packet.setData(byteStream.toByteArray());
 	packet.setLength(byteStream.size());
 
-	System.out.println(byteStream.size());
+	//System.out.println(byteStream.size());
 	// now send it
 	socket.send(packet);
 

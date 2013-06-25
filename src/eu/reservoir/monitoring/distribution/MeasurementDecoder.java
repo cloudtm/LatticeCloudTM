@@ -92,7 +92,7 @@ public class MeasurementDecoder {
         }
 
 		
-	 System.err.print(probeID + ": " + mType + " @ " + ts + ". ");
+	 //System.err.print(probeID + ": " + mType + " @ " + ts + ". ");
 
 	// read attributes
 	
